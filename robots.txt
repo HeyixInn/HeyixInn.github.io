@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://HeyixInn.github.io/sitemap.xml
