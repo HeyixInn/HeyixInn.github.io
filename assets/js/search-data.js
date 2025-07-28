@@ -433,7 +433,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
+            },},{id: "education-m-sc-in-communication-data-science-years-2022-2024-university-university-of-southern-california-location-los-angeles-ca-united-states",
+          title: 'M.Sc. in Communication Data Science Years: 2022 – 2024 University: University of Southern...',
+          description: "",
+          section: "Education",},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
