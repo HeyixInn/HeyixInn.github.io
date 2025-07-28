@@ -9,9 +9,8 @@ profile:
   image: yixin.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>📮 Email: yixinhe@usc.edu </p>
-    <p>Los Angeles, CA</p>
-    # <p>Your City, State 12345</p>
+    <p>🏫 Viterbi School of Engineering, University of Southern California </p>
+    <p>📮 yixinhe@usc.edu </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -36,8 +35,8 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 Hi! 👋 I'm Yixin He, a second-year Master's student in Computer Science (CSAI) at USC 🎓. I'm currently working remotely as a Research Assistant with Dr. Simin Chen and Prof. Baishakhi Ray from Columbia University. This year, I'm applying to Ph.D. programs to further pursue my research passion ✨.
 My interests include:
 
-LLMs for Code: Exploring how to improve the code generation, bug fixing, and security capabilities of large language models. This includes enhancing code quality, automating debugging, and studying adversarial attacks and defenses in code-based systems.
+- **🔧LLMs for Code**: Investigating how to advance the capabilities of large language models in code generation, automated program repair, and software security. I’m particularly interested in methods that improve code reliability and maintainability, as well as techniques for modeling and mitigating adversarial behaviors in LLM-powered code systems.
 
-LLM Reasoning: Enhancing the reasoning abilities of LLMs by improving their accuracy, consistency, and efficiency. I am especially interested in techniques that enable models to reason with fewer tokens, reduced latency, and stronger logical coherence.
+- **🧠LLM Reasoning**: Aiming to enhance the reasoning efficiency and fidelity of LLMs by developing approaches that reduce computational overhead while preserving or improving logical consistency and correctness. My focus lies in enabling LLMs to reason more accurately, coherently, and efficiently under constrained inference settings.
 
 I'm always excited about discussions and collaborations! Feel free to reach out via email if you're interested in my work or just want to chat about research ideas 💬.
