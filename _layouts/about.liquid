@@ -40,13 +40,13 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+
     <!-- Education -->
     <h2>
       <a href="{{ '/education/' | relative_url }}" style="color: inherit">Education</a>
     </h2>
     {% include education.liquid limit=true %}
     
-    <div class="clearfix">{{ content }}</div>
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
@@ -55,18 +55,6 @@ layout: default
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
-
-    <div class="clearfix">{{ content }}</div>
-
-    <!-- Latest posts -->
-    {% if page.latest_posts and page.latest_posts.enabled %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
-      </h2>
-      {% include latest_posts.liquid %}
-    {% endif %}
-
-    <div class="clearfix">{{ content }}</div>
 
     <!-- Selected Publications -->
     {% if page.selected_papers %}
