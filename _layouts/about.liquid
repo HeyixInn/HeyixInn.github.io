@@ -46,14 +46,17 @@ layout: default
     </h2>
     {% include education.liquid limit=true %}
     
+    <div class="clearfix">{{ content }}</div>
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
+
+    <div class="clearfix">{{ content }}</div>
 
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
@@ -63,7 +66,9 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
-    <!-- Selected papers -->
+    <div class="clearfix">{{ content }}</div>
+
+    <!-- Selected Publications -->
     {% if page.selected_papers %}
       <h2>
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
