@@ -192,6 +192,20 @@ ul.task-list input[type="checkbox"] {
 
 // Profile
 
+.subtitle {
+  .more-info {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-family: monospace;
+
+    p {
+      display: inline-block;
+      margin: 0;
+      font-size: 10px;
+    }
+  }
+}
+
 .profile {
   width: 100%;
 
@@ -207,6 +221,7 @@ ul.task-list input[type="checkbox"] {
     }
   }
 }
+
 
 .profile.float-right {
   margin-left: 1rem;
