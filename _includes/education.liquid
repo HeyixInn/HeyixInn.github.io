@@ -1,10 +1,13 @@
 <div class="education">
   {% if site.data.education != blank %}
-    <ul>
+    <ul class="education-list">
       {% assign edu_list = site.data.education | reverse %}
       {% for edu in edu_list %}
-        <li>
-          {{ edu.degree }}, {{ edu.years }}, {{ edu.university }}, {{ edu.location }}
+        <li class="education-item">
+          <span class="degree"><strong>🎓 {{ edu.degree }}</strong></span>,
+          <span class="years" style="color: #666;">{{ edu.years }}</span>,
+          <span class="university" style="color: #0056b3;"><strong>{{ edu.university }}</strong></span>,
+          <span class="location" style="color: #888;">{{ edu.location }}</span>
         </li>
       {% endfor %}
     </ul>
