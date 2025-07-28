@@ -37,7 +37,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hi! 👋 I'm Yixin He, a second-year Master's student in Computer Science (CSAI) at USC 🎓. I'm currently working remotely as a Research Assistant with Dr. Simin Chen and Prof. Baishakhi Ray from Columbia University. This year, I'm applying to Ph.D. programs to further pursue my research passion ✨.
+Hi! 👋 I'm **Yixin He**, a second-year Master's student in Computer Science (CSAI) at USC 🎓. I'm currently working remotely as a Research Assistant with Dr. Simin Chen and Prof. Baishakhi Ray from Columbia University. This year, I'm applying to Ph.D. programs to further pursue my research passion ✨.
 My interests include:
 
 - **🔧 LLMs for Code**: Investigating how to advance the capabilities of large language models in code generation, automated program repair, and software security. I’m particularly interested in methods that improve code reliability and maintainability, as well as techniques for modeling and mitigating adversarial behaviors in LLM-powered code systems.
