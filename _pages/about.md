@@ -6,7 +6,7 @@ subtitle: Short Bio
 
 profile:
   align: right
-  image: yixin_2.JPG
+  # image: yixin_2.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>🏫 Viterbi School of Engineering, University of Southern California </p>
